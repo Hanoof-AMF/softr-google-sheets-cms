@@ -1,0 +1,30 @@
+# University Complaint Management System
+
+This project is a "University Complaint Management System" built using [Softr.io](https://www.softr.io) as a no-code front-end platform, and Google Sheets as the CMS backend.
+
+ 📌 Overview
+
+This web application allows university students to easily submit, voting complaints and track complaints related to academic, non-academic, and Hostel. It streamlines the communication process between students and the university administration.
+
+ ✨ Features
+
+- 📝 Submit complaints via a user-friendly web interface
+- 📊 Admin dashboard to view and manage all submissions
+- 🕵️ Complaint status tracking
+- 🔒 Role-based access for students and admin staff
+- ✅ Google Sheets integration as backend database
+- 🌐 Responsive design for mobile and desktop
+- Email notifications on complaint updates
+
+ 🚀 Built With
+
+- Softr – No-code platform for front-end and logic
+- Google Sheets – Used as the CMS/data source
+
+ 🧠 Future Improvements
+
+- Multi-department filtering and auto-routing
+- Advanced analytics/dashboard for administrators
+
+
+
