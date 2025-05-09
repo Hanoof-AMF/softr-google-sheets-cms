@@ -1,0 +1,24 @@
+ 🌐 My Softr Project
+
+This is a no-code web application built using [Softr](https://www.softr.io/).
+
+ 🚀 Live Demo
+
+👉 [Click here to view the live site](https://Complaintmanagementsystem.softr.app)
+   Google sheet URL for database [https://docs.google.com/spreadsheets/d/1_Hmo-ogqrQYLfo5zb9uWff5Sa-XQcs3hsnNp1RAJae4/edit?usp=sharing]
+ 
+ 🛠️ Features
+
+- 📊 Data-driven UI powered by Googlesheet
+- 🔒 User authentication
+- 🔍 Search & filtering
+- 📱 Responsive design
+- 💬 Contact or feedback form
+
+ 🧩 Tech Stack
+
+- Platform:[Softr.io](https://www.softr.io/)
+- Database:googlesheet
+- Hosting:Included with Softr
+
+
